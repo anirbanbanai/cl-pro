@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "src": "https://d2yo8p89bpsqlq.cloudfront.net/3d/woman/blouse/995_fabric/front/sleeves_long+sleeve_detail_normal+cuffs_classic.png",
+    "type": "fullhand",
+    "subType": "Fullhand1"
+  },
+  {
+    "id": 3,
+    "src": "https://i.ibb.co/VTJbkqJ/bracel-Half-Hand.png",
+    "type": "fullhand",
+    "subType": "Fullhand2"
+  },
+  {
+    "id": 2,
+    "src": "https://i.ibb.co/Nmv1NKF/bracel-Bracet-Hand.png",
+    "type": "tophand",
+    "subType": "tophand1"
+  },
+  {
+    "id": 6,
+    "src": "https://i.ibb.co/VjbrJ6n/classic-Hand-Cough.png",
+    "type": "tophand",
+    "subType": "tophand2"
+  },
+  {
+    "id": 9,
+    "src": "https://i.ibb.co/g7JcLj8/colors-Half-Hand-Coug.png",
+    "type": "tophand",
+    "subType": "tophand3"
+  },
+  {
+    "id": 4,
+    "src": "https://i.ibb.co/BcDJqDn/classic-Collar.png",
+    "type": "buk",
+    "subType": "buk1"
+  },
+  {
+    "id": 7,
+    "src": "https://i.ibb.co/zmYnynG/classic-Narrow-Collar.png",
+    "type": "buk",
+    "subType": "buk2"
+  },
+  {
+    "id": 8,
+    "src": "https://i.ibb.co/XY5s3Hy/classic-Two-Button.png",
+    "type": "buk",
+    "subType": "buk3"
+  },
+  {
+    "id": 16,
+    "src": "https://i.ibb.co/PYh0dfR/stand-Up-Collar.png",
+    "type": "buk",
+    "subType": "buk4"
+  },
+
+  {
+    "id": 10,
+    "src": "https://i.ibb.co/D4FtW63/half-Bottom.png",
+    "type": "hafhand",
+    "subType": "hafhand1"
+  },
+
+  {
+    "id": 12,
+    "src": "https://i.ibb.co/NmhZxD7/halfHand.png",
+    "type": "hafhand",
+    "subType": "hafhand2"
+  },
+  
+  {
+    "id": 14,
+    "src": "https://i.ibb.co/tQXdV3v/slimfit.png",
+    "type": "hafhand",
+    "subType": "hafhand3"
+  },
+  {
+    "id": 15,
+    "src": "https://i.ibb.co/LdDvZ3n/slimfit2.png",
+    "type": "hafhand",
+    "subType": "hafhand4"
+  },
+  {
+    "id": 13,
+    "src": "https://i.ibb.co/9rycQVZ/one-Breast-Pocket.png",
+    "type": "pocket",
+    "subType": "pocket1"
+  },
+  {
+    "id": 17,
+    "src": "https://i.ibb.co/71kcpK1/two-Pocket.png",
+    "type": "pocket",
+    "subType": "pocket2"
+  },
+
+  {
+    "id": 19,
+    "src": "https://i.ibb.co/wJPN5G1/with-Shoulder-Strap.png",
+    "type": "sholder",
+    "subType": "sholder1"
+  },
+  {
+    "id": 18,
+    "src": "https://i.ibb.co/vPcmV55/two-Pocket-Bottom.png",
+    "type": "bottam",
+    "subType": "bottam1"
+  },
+  {
+    "id": 11,
+    "src": "https://i.ibb.co/9y1fnx4/half-Fastening-Bottam.png",
+    "type": "bottam",
+    "subType": "bottam2"
+  },
+  {
+    "id": 5,
+    "src": "https://i.ibb.co/NnjGLCm/bottam.png",
+    "type": "bottam",
+    "subType": "bottam3"
+  }
+]

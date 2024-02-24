@@ -1,0 +1,20 @@
+export const ClothData = [
+    {
+      "name": "shirt",
+      "size": "xxl",
+      "img": "",
+      "color": [""]
+    },
+    {
+      "name": "t-shirt",
+      "size": "xl",
+      "img": "",
+      "color": [""]
+    },
+    {
+      "name": "pant",
+      "size": "xxl",
+      "img": "",
+      "color": [""]
+    }
+  ]
